@@ -20,8 +20,7 @@
 
     //.=
     $first_name = 'Alan';
-    echo "<p>$first.
-    _name</p>";
+    echo "<p>$first._name</p>";
     $last_name = 'Walker';
     echo "<p>$last_name</p>";
     $first_name •= 'Walker';
